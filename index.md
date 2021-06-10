@@ -4,8 +4,8 @@
 
 <center>
 <h2>
-<a href="https://cob-web.xyz">Home</a> |
-<a href="https://cob-web.xyz/discord/">Discord</a> |
+<a href="https://cob-web.xyz">Cob:web Development</a> |
+<a href="https://cob-web.xyz/discord/">Discord</a>
 </h2>
 </center>
 
