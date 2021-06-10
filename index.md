@@ -9,7 +9,7 @@
 </h2>
 </center>
 
-<center><img src="/favicon.png" width="20%" height="20%"></center>
+<center><img src="./favicon.png" width="20%" height="20%"></center>
 
 # Blog posts, announcements and updates from the Cob:web Development team!
 
