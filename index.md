@@ -1,32 +1,20 @@
-Welcome to GitHub Pages
+<head>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
+</head>
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+<center>
+<h2>
+<a href="https://cob-web.xyz">Home</a> |
+<a href="https://cob-web.xyz/discord/">Discord</a> |
+</h2>
+</center>
 
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
-Markdown
+<center><img src="/favicon.png" width="20%" height="20%"></center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Blog posts, announcements and updates from the Cob:web Development team!
 
-Syntax highlighted code block
+This blog page will be a collection of blog posts and writeups from the official Cob:web Development team to inform you of changes, updates or new releases from projects created by Cob:web Development!
 
-# Header 1
-## Header 2
-### Header 3
+- 11/06/21
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see GitHub Flavored Markdown.
-Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
-Support or Contact
-
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
+[A change to the CelOS brand look](posts/1.html)
