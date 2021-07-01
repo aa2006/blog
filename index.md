@@ -17,7 +17,7 @@ This blog page will be a collection of blog posts and writeups from the official
 
 - 01/07/21
 
-[Cob:web Development-Aclevo brand merger agreement](posts/3.html)
+[Ensuring software remains free](posts/3.html)
 
 - 26/06/21
 
